@@ -16,6 +16,13 @@ The implementation prioritizes:
 
 ---
 
+## 🌍 Deployment
+
+This portfolio website is live and accessible at:
+
+- **Netlify:** [https://69d26634b5b2caa3a3a13d1f--bright-bublanina-a9bd44.netlify.app/](https://69d26634b5b2caa3a3a13d1f--bright-bublanina-a9bd44.netlify.app/)
+
+
 ## Key Features
 
 ### 1. Motion-Driven Hero Section
